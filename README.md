@@ -2,9 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Docker flow
 
-#### `$ npm run build`
-#### `$ docker build . -t react-docker`
-#### `$ docker run -p 8000:80 react-docker`
+* `$ npm run build`
+* `$ docker build . -t react-docker`
+* `$ docker run -p 8000:80 react-docker`
 
 ## Available Scripts
 
